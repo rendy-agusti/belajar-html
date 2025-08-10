@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Rendy Agusti</h1>
+      <h2>belajar react</h2>
     </>
   )
 }
