@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Rendy Agusti</h1>
       <h2>belajar react</h2>
+      <h3>anu</h3>
     </>
   )
 }
